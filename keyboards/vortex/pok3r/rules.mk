@@ -1,0 +1,2 @@
+BOOTLOADER = ht32-dfu
+SERIAL_DRIVER = usart
