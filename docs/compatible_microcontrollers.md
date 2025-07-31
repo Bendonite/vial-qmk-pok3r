@@ -60,6 +60,14 @@ You can also use any ARM chip with USB that [ChibiOS](https://www.chibios.org) s
 ### Artery (AT32)
 
  * [AT32F415](https://www.arterychip.com/en/product/AT32F415.jsp)
+ 
+ ### Holtek (HT32)
+
+* [HT32F1653](https://web.archive.org/web/20191230160134/https://www.holtek.com/productdetail/-/vg/HT32F1653_1654)
+* [HT32F1654](https://web.archive.org/web/20191230160134/https://www.holtek.com/productdetail/-/vg/HT32F1653_1654)
+* [HT32F1655](https://web.archive.org/web/20190301180920/http://www.holtek.com/productdetail/-/vg/HT32F1655_1656)
+* [HT32F52342](https://web.archive.org/web/20190301180837/http://www.holtek.com/productdetail/-/vg/HT32F52342-52)
+* [HT32F52352](https://web.archive.org/web/20190301180837/http://www.holtek.com/productdetail/-/vg/HT32F52342-52)
 
 ### NXP (Kinetis)
 
